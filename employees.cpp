@@ -1,7 +1,7 @@
 /*
 Project Title: Employee Payroll System
-Student Name: 
-Register No:
+Student Name: Deepika Agrawal
+Register No: 25BCE5581
 */
 
 #include <iostream>
